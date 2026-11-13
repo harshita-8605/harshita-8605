@@ -1,11 +1,13 @@
 <div align="center">
 
 <p>
-  <img src="https://www.gitskins.com/api/section/wordmark?username=harshita-8605&theme=cyber&label=Harshita%20Narula" width="100%" alt="Animated wordmark for Harshita Narula" />
+  <a href="https://github.com/harshita-8605">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Harshita+%F0%9F%91%8B;AI%2FML+%26+Full-Stack+Developer;Building+useful+software+in+the+dark." alt="Typing introduction" />
+  </a>
 </p>
 
 <p>
-  <img src="https://www.gitskins.com/api/section/hero?username=harshita-8605&theme=cyber&mode=dark" width="100%" alt="Animated GitHub profile hero for Harshita Narula" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b16,50:111827,100:1e293b&height=150&section=header&text=Harshita%20Narula&fontColor=38bdf8&fontSize=34&fontAlignY=35" width="100%" alt="Dark space-themed profile header" />
 </p>
 
 <p>
@@ -14,10 +16,6 @@
 </p>
 
 </div>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/system-scan?username=harshita-8605&theme=cyber" width="100%" alt="Animated profile scan using Harshita Narula's GitHub profile" />
-</p>
 
 ## `~/about`
 
@@ -34,14 +32,10 @@ I’m **Harshita Narula**, an AI/ML and full-stack developer who enjoys turning 
 ## `~/stack`
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=harshita-8605&theme=cyber" width="100%" alt="Animated language and technology stack" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,nextjs,react,nodejs,opencv,docker,git,github,linux&perline=7" alt="Python, TypeScript, JavaScript, C++, Java, Next.js, React, Node.js, OpenCV, Docker, Git, GitHub, and Linux" />
 </p>
 
 ## `~/projects`
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=harshita-8605&theme=cyber" width="100%" alt="Animated pinned projects" />
-</p>
 
 <table>
 <tr>
