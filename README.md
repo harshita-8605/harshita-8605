@@ -88,19 +88,11 @@ A growing collection of solutions covering arrays, graphs, dynamic programming, 
 </tr>
 </table>
 
-## `~/contribution-game`
-
-<p align="center">
-  <i>Your real GitHub contribution calendar, reimagined as a space shooter.</i>
-</p>
+## `~/contribution`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/harshita-8605/harshita-8605/output/space-shooter.gif" width="100%" alt="Animated space shooter contribution game" />
 </p>
-
-<div align="center">
-  <sub>Refreshed automatically every day from my GitHub contribution calendar.</sub>
-</div>
 
 <br />
 
