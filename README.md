@@ -1,49 +1,121 @@
 <div align="center">
 
-# Hi, I'm Harshita 👋
-
-### AI/ML & Full-Stack Developer
-
-I build practical software at the intersection of **machine learning, intelligent agents, and user-focused web products**.
-
-<a href="https://github.com/harshita-8605"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/harshita-narula-8a9980310"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-</div>
-
-## What I work on
-
-- 🤖 **AI/ML systems** — agentic workflows, NLP, model experimentation, and applied research
-- 🧩 **Full-stack products** — clean interfaces, APIs, and reliable developer experiences
-- ☁️ **Engineering foundations** — Python, TypeScript, Docker, Java, and cloud-ready systems
-
-## Featured work
-
-| Project | What it is |
-| --- | --- |
-| [**MetaKube**](https://github.com/harshita-8605/MetaKube) | Experience-aware LLM framework for Kubernetes failure diagnosis |
-| [**AgentMesh**](https://github.com/harshita-8605/AgentMesh) | Multi-agent experimentation and orchestration |
-| [**Nodebase**](https://github.com/harshita-8605/Nodebase) | TypeScript project focused on building practical developer tooling |
-| [**Nyaya-bot**](https://github.com/harshita-8605/Nyaya-bot) | Python-based conversational AI project |
-| [**Typeform Clone**](https://github.com/harshita-8605/Typeform-Clone) | Full-stack form-building product experience |
-| [**Leetcode Solutions**](https://github.com/harshita-8605/Leetcode-Solutions) | Consistent problem-solving practice in C++ |
-
-## Tech I use
+<a href="https://github.com/harshita-8605">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1100&color=8B5CF6&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Harshita+%F0%9F%91%8B;AI%2FML+%26+Full-Stack+Developer;I+build+ideas+into+useful+software." alt="Typing introduction">
+</a>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,react,nodejs,docker,git,github,linux&perline=11" alt="Python, TypeScript, JavaScript, C++, Java, React, Node.js, Docker, Git, GitHub, Linux">
+  <a href="https://github.com/harshita-8605"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/harshita-narula-8a9980310"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=harshita-8605&label=Profile%20views&color=8B5CF6&style=flat-square" alt="Profile views">
 </p>
 
-## GitHub journey
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshita-8605&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Harshita's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-8605&layout=compact&hide_border=true&theme=transparent" alt="Harshita's top languages">
 </div>
 
-## Contribution battle
+<table>
+<tr>
+<td valign="top" width="48%">
 
-> Every contribution powers the next move. Train consistently, level up, and keep shipping.
+## `~/whoami`
+
+```python
+harshita = {
+    "role": "AI/ML & Full-Stack Developer",
+    "building": [
+        "intelligent applications",
+        "agentic workflows",
+        "creative developer tools",
+    ],
+    "interests": [
+        "machine learning",
+        "computer vision",
+        "web products",
+        "problem solving",
+    ],
+    "toolkit": ["Python", "TypeScript", "C++", "Docker"],
+}
+```
+
+I like turning ambitious ideas into products that are understandable, useful, and fun to use.
+
+</td>
+<td valign="top" width="52%">
+
+## `~/stack`
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java&perline=5" alt="Python, TypeScript, JavaScript, C++, Java">
+
+**Frameworks & tools**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,opencv,docker,git,github,linux&perline=8" alt="Next.js, React, Node.js, OpenCV, Docker, Git, GitHub, Linux">
+
+**Currently exploring**
+
+`AI agents` · `computer vision` · `LLM applications` · `system design`
+
+</td>
+</tr>
+</table>
+
+## `~/projects`
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### [Nodebase](https://github.com/harshita-8605/Nodebase)
+
+A full-stack product built with Next.js, PostgreSQL, Drizzle, Better Auth, Trigger.dev, and Sentry. A focused project for exploring modern SaaS foundations, authentication, billing, and background workflows.
+
+`TypeScript` `Next.js` `PostgreSQL`
+
+</td>
+<td valign="top" width="50%">
+
+### [Nyaya-bot](https://github.com/harshita-8605/Nyaya-bot)
+
+An AI application built around a Python backend and tool-driven workflows. It reflects my interest in making language-model systems practical, structured, and useful.
+
+`Python` `AI/ML` `Docker`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### [Anime Portal](https://github.com/harshita-8605/Anime-Portal)
+
+A real-time computer-vision experiment that uses hand tracking to create a portal into an anime-styled webcam feed. The pipeline combines MediaPipe, OpenCV, geometry, masking, and compositing.
+
+`Python` `OpenCV` `MediaPipe`
+
+</td>
+<td valign="top" width="50%">
+
+### [LeetCode Solutions](https://github.com/harshita-8605/Leetcode-Solutions)
+
+A growing collection of interview problems covering arrays, graphs, dynamic programming, backtracking, strings, and more — written while building consistency in problem solving.
+
+`C++` `DSA` `Problem solving`
+
+</td>
+</tr>
+</table>
+
+## `~/activity`
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshita-8605&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&cache_seconds=86400" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-8605&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&cache_seconds=86400" alt="Top languages">
+</div>
+
+## `~/contribution-battle`
+
+<p align="center">
+  <i>Every contribution is another move. Keep training, keep shipping.</i>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="pokemon-battle-dark.svg">
@@ -52,13 +124,11 @@ I build practical software at the intersection of **machine learning, intelligen
 </picture>
 
 <div align="center">
-
-<sub>Updated automatically every day from my GitHub contribution calendar.</sub>
-
+  <sub>Automatically refreshed every day from my GitHub contribution calendar.</sub>
 </div>
 
----
+<br>
 
 <div align="center">
-  <i>Build something useful. Learn something difficult. Repeat.</i>
+  <i>Curious mind. Consistent builder. Always learning.</i>
 </div>
