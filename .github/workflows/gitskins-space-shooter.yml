@@ -1,0 +1,53 @@
+name: Generate Space Shooter Contribution Game
+
+on:
+  push:
+    paths:
+      - README.md
+      - .github/workflows/gitskins-space-shooter.yml
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: gitskins-space-shooter
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution game
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python -m pip install --disable-pip-version-check "gh-space-shooter==2.0.4"
+          gh-space-shooter harshita-8605 --output space-shooter.gif --strategy random --fps 30
+
+      - name: Publish generated game
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code origin refs/heads/output >/dev/null 2>&1; then
+            git fetch origin output
+            git worktree add /tmp/gitskins-output FETCH_HEAD
+          else
+            git worktree add --detach /tmp/gitskins-output
+            cd /tmp/gitskins-output
+            git checkout --orphan output
+            git rm -rf . >/dev/null 2>&1 || true
+            cd -
+          fi
+          cp -f space-shooter.gif /tmp/gitskins-output/
+          cd /tmp/gitskins-output
+          git add space-shooter.gif
+          git diff --cached --quiet || git commit -m "chore: update space shooter"
+          git push origin HEAD:output

@@ -1,65 +1,47 @@
 <div align="center">
 
-<a href="https://github.com/harshita-8605">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1100&color=8B5CF6&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Harshita+%F0%9F%91%8B;AI%2FML+%26+Full-Stack+Developer;I+build+ideas+into+useful+software." alt="Typing introduction">
-</a>
+<p>
+  <img src="https://www.gitskins.com/api/section/wordmark?username=harshita-8605&theme=cyber&label=Harshita%20Narula" width="100%" alt="Animated wordmark for Harshita Narula" />
+</p>
 
 <p>
-  <a href="https://github.com/harshita-8605"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/harshita-narula-8a9980310"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=harshita-8605&label=Profile%20views&color=8B5CF6&style=flat-square" alt="Profile views">
+  <img src="https://www.gitskins.com/api/section/hero?username=harshita-8605&theme=cyber&mode=dark" width="100%" alt="Animated GitHub profile hero for Harshita Narula" />
+</p>
+
+<p>
+  <a href="https://github.com/harshita-8605"><img src="https://img.shields.io/badge/GitHub-080b16?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/harshita-narula-8a9980310"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"></a>
 </p>
 
 </div>
 
-<table>
-<tr>
-<td valign="top" width="48%">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=harshita-8605&theme=cyber" width="100%" alt="Animated profile scan using Harshita Narula's GitHub profile" />
+</p>
 
-## `~/whoami`
+## `~/about`
 
-```python
-harshita = {
-    "role": "AI/ML & Full-Stack Developer",
-    "building": [
-        "intelligent applications",
-        "agentic workflows",
-        "creative developer tools",
-    ],
-    "interests": [
-        "machine learning",
-        "computer vision",
-        "web products",
-        "problem solving",
-    ],
-    "toolkit": ["Python", "TypeScript", "C++", "Docker"],
-}
-```
+I’m **Harshita Narula**, an AI/ML and full-stack developer who enjoys turning ambitious ideas into useful, polished software.
 
-I like turning ambitious ideas into products that are understandable, useful, and fun to use.
+- Building intelligent applications, agentic workflows, and creative developer tools
+- Exploring machine learning, computer vision, web products, and system design
+- Solving problems with Python, TypeScript, JavaScript, C++, and Java
 
-</td>
-<td valign="top" width="52%">
+<p align="center">
+  <img src="https://github.com/harshita-8605.png" width="150" height="150" alt="Harshita Narula's profile picture" />
+</p>
 
 ## `~/stack`
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java&perline=5" alt="Python, TypeScript, JavaScript, C++, Java">
-
-**Frameworks & tools**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,opencv,docker,git,github,linux&perline=8" alt="Next.js, React, Node.js, OpenCV, Docker, Git, GitHub, Linux">
-
-**Currently exploring**
-
-`AI agents` · `computer vision` · `LLM applications` · `system design`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=harshita-8605&theme=cyber" width="100%" alt="Animated language and technology stack" />
+</p>
 
 ## `~/projects`
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=harshita-8605&theme=cyber" width="100%" alt="Animated pinned projects" />
+</p>
 
 <table>
 <tr>
@@ -67,7 +49,7 @@ I like turning ambitious ideas into products that are understandable, useful, an
 
 ### [Nodebase](https://github.com/harshita-8605/Nodebase)
 
-A full-stack product built with Next.js, PostgreSQL, Drizzle, Better Auth, Trigger.dev, and Sentry. A focused project for exploring modern SaaS foundations, authentication, billing, and background workflows.
+Modern full-stack SaaS foundations with Next.js, PostgreSQL, Drizzle, Better Auth, Trigger.dev, and Sentry.
 
 `TypeScript` `Next.js` `PostgreSQL`
 
@@ -76,7 +58,7 @@ A full-stack product built with Next.js, PostgreSQL, Drizzle, Better Auth, Trigg
 
 ### [Nyaya-bot](https://github.com/harshita-8605/Nyaya-bot)
 
-An AI application built around a Python backend and tool-driven workflows. It reflects my interest in making language-model systems practical, structured, and useful.
+An AI application with a Python backend and tool-driven workflows for practical, structured language-model systems.
 
 `Python` `AI/ML` `Docker`
 
@@ -87,7 +69,7 @@ An AI application built around a Python backend and tool-driven workflows. It re
 
 ### [Anime Portal](https://github.com/harshita-8605/Anime-Portal)
 
-A real-time computer-vision experiment that uses hand tracking to create a portal into an anime-styled webcam feed. The pipeline combines MediaPipe, OpenCV, geometry, masking, and compositing.
+A computer-vision experiment combining hand tracking, MediaPipe, OpenCV, geometry, masking, and compositing.
 
 `Python` `OpenCV` `MediaPipe`
 
@@ -96,7 +78,7 @@ A real-time computer-vision experiment that uses hand tracking to create a porta
 
 ### [LeetCode Solutions](https://github.com/harshita-8605/Leetcode-Solutions)
 
-A growing collection of interview problems covering arrays, graphs, dynamic programming, backtracking, strings, and more — written while building consistency in problem solving.
+A growing collection of solutions covering arrays, graphs, dynamic programming, backtracking, strings, and more.
 
 `C++` `DSA` `Problem solving`
 
@@ -107,27 +89,25 @@ A growing collection of interview problems covering arrays, graphs, dynamic prog
 ## `~/activity`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshita-8605&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&cache_seconds=86400" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-8605&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&cache_seconds=86400" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshita-8605&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=080b16&title_color=38bdf8&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-8605&layout=compact&hide_border=true&langs_count=6&theme=github_dark&bg_color=080b16&title_color=38bdf8&text_color=cbd5e1" alt="Top languages">
 </div>
 
-## `~/contribution-battle`
+## `~/contribution-game`
 
 <p align="center">
-  <i>Every contribution is another move. Keep training, keep shipping.</i>
+  <i>Your real GitHub contribution calendar, reimagined as a space shooter.</i>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="pokemon-battle-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="pokemon-battle.svg">
-  <img alt="Animated Pokémon-inspired contribution battle" src="pokemon-battle.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshita-8605/harshita-8605/output/space-shooter.gif" width="100%" alt="Animated space shooter contribution game" />
+</p>
 
 <div align="center">
-  <sub>Automatically refreshed every day from my GitHub contribution calendar.</sub>
+  <sub>Refreshed automatically every day from my GitHub contribution calendar.</sub>
 </div>
 
-<br>
+<br />
 
 <div align="center">
   <i>Curious mind. Consistent builder. Always learning.</i>
