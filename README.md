@@ -19,15 +19,23 @@
 
 ## `~/about`
 
-I’m **Harshita Narula**, an AI/ML and full-stack developer who enjoys turning ambitious ideas into useful, polished software.
-
-- Building intelligent applications, agentic workflows, and creative developer tools
-- Exploring machine learning, computer vision, web products, and system design
-- Solving problems with Python, TypeScript, JavaScript, C++, and Java
-
-<p align="center">
-  <img src="https://github.com/harshita-8605.png" width="150" height="150" alt="Harshita Narula's profile picture" />
-</p>
+```python
+harshita = {
+    "role": "AI/ML & Full-Stack Developer",
+    "building": [
+        "intelligent applications",
+        "agentic workflows",
+        "creative developer tools",
+    ],
+    "interests": [
+        "machine learning",
+        "computer vision",
+        "web products",
+        "problem solving",
+    ],
+    "toolkit": ["Python", "TypeScript", "C++", "Docker"],
+}
+```
 
 ## `~/stack`
 
@@ -79,13 +87,6 @@ A growing collection of solutions covering arrays, graphs, dynamic programming, 
 </td>
 </tr>
 </table>
-
-## `~/activity`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshita-8605&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=080b16&title_color=38bdf8&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-8605&layout=compact&hide_border=true&langs_count=6&theme=github_dark&bg_color=080b16&title_color=38bdf8&text_color=cbd5e1" alt="Top languages">
-</div>
 
 ## `~/contribution-game`
 
