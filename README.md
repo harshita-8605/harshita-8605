@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b16,50:111827,100:1e293b&height=150&section=header&text=Harshita%20Narula&fontColor=38bdf8&fontSize=34&fontAlignY=35" width="100%" alt="Dark space-themed profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b16,50:111827,100:1e293b&height=150&section=header&text=Harshita&fontColor=38bdf8&fontSize=34&fontAlignY=35" width="100%" alt="Dark space-themed profile header" />
 </p>
 
 <p>
