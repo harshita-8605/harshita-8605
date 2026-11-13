@@ -29,11 +29,11 @@ harshita = {
     ],
     "interests": [
         "machine learning",
-        "computer vision",
-        "web products",
-        "problem solving",
+        "software engineering",
+        "open source",
+        "continuous learning",
     ],
-    "toolkit": ["Python", "TypeScript", "C++", "Docker"],
+    "toolkit": ["Python", "TypeScript", "C++", "Git"],
 }
 ```
 
